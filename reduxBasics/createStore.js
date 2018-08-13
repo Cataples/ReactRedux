@@ -1,3 +1,6 @@
+// getstate
+// store
+// dispatch
 import React from "react";
 import { createStore } from "redux";
 import expect from "expect";
