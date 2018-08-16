@@ -175,7 +175,3 @@ render(
   </Provider>,
   document.getElementById("redux")
 );
-
-const BasicExample = () => <p>Redux learning</p>;
-
-export default BasicExample;
